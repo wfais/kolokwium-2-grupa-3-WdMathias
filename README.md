@@ -38,3 +38,5 @@ Proszę pamiętać, że w godzinach 9:05 - 9:30 odbędzie się **Quiz nr 6**, wi
 ---
 
 Powodzenia! 😊
+
+Autor: Maciej Wadas
